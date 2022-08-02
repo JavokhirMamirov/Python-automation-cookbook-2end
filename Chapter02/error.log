@@ -1,0 +1,8 @@
+2022-07-30 17:00:15,458 root INFO Dividing 10 between 0
+2022-07-30 17:00:15,458 root ERROR Error running task
+Traceback (most recent call last):
+  File "D:\Python automation cookbook\Chapter02\task_with_error_handling_step4.py", line 33, in <module>
+    main(args.n1, args.n2, args.output)
+  File "D:\Python automation cookbook\Chapter02\task_with_error_handling_step4.py", line 11, in main
+    result = number / other_number
+ZeroDivisionError: division by zero
