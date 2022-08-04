@@ -1,0 +1,7 @@
+
+Movies report
+--------------
+
+Date: 2022-08-04 05:27:15.722208
+Movies seen in the last 30 days: 3
+Total munites: 376
